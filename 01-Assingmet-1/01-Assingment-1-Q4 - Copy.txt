@@ -1,0 +1,2 @@
+The output of the following program would be:
+	6 4

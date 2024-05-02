@@ -1,0 +1,5 @@
+The space taken by the following data types can vary depending on the compiler and platform:
+
+    int: Typically 4 bytes.
+    bool: Typically 1 byte.
+    float: Typically 4 bytes.
