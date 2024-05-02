@@ -1,0 +1,1 @@
+No, the same function name cannot be used for different functions without any conflict. C++ does not support function overloading with different return types only, nor does it allow function overloading based solely on return type. However, it does support function overloading based on the number and types of parameters.

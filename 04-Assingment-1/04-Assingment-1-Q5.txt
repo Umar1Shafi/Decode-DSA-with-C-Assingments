@@ -1,0 +1,1 @@
+1 (Explanation: At least the main function is required for a valid C++ program.)

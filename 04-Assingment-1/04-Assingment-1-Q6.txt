@@ -1,0 +1,2 @@
+    True. (Explanation: Functions can be called multiple times from other functions.)
+    False. (Explanation: It's not necessary for a function to return a value. Void functions, for example, don't return anything.)
