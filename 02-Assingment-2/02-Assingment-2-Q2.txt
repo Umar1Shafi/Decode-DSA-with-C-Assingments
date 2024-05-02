@@ -1,0 +1,1 @@
+The output will be a = 15, b = 15 , c = 0.

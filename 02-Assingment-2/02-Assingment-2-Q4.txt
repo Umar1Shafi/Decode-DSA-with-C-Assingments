@@ -1,0 +1,4 @@
+The output will be:
+
+First character 1
+Second character 49
