@@ -1,0 +1,5 @@
+The output will be "Hello" printed 3 times because t is divided by 2 repeatedly until it becomes 0.
+
+Hello
+Hello
+Hello

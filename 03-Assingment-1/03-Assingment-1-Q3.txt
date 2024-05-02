@@ -1,0 +1,5 @@
+The output will be "In for loop" printed 3 times because the condition x * x <= 10 holds true for x = 1, 2, 3,.
+
+In for loop
+In for loop
+In for loop
