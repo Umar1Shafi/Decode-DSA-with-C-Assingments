@@ -1,0 +1,12 @@
+In a singly linked list, deletion of data requires modification of how many pointers?
+1
+2
+3
+Depends upon the node being deleted.
+
+
+
+The deletion of data in a singly linked list typically requires modification of 2 pointers:
+
+    Pointer of the node before the node to be deleted to adjust its next pointer.
+    Pointer of the node to be deleted to update the next pointer of the previous node.

@@ -1,0 +1,8 @@
+void traverse(Node* head) {
+    while(head and head->next) {
+        cout << head->data << ' ';
+        head = head->next->next;
+    }
+}
+
+Output: 13
