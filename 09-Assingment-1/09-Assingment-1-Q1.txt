@@ -1,0 +1,4 @@
+    It is stable sort: True. Bubble sort is a stable sorting algorithm as it preserves the relative order of equal elements.
+    It has a worst-case space complexity of O(n): False. Bubble sort has a space complexity of O(1), meaning it uses a constant amount of extra space.
+    It involves swapping of adjacent elements: True. Bubble sort compares adjacent elements and swaps them if they are in the wrong order.
+    After each iteration, the greatest element is placed at the end of the array: False. In each iteration, the largest (or smallest, depending on the sorting order) element "bubbles up" to its correct position from the beginning of the array.
