@@ -1,0 +1,7 @@
+for(int i = 0; i < n; i++) {
+    for(int j = 0; j * j < n; j++) {
+        cout << "PhysicsWallah ";
+    }
+}
+
+The outer loop iterates n times, and for each iteration of the outer loop, the inner loop iterates until j * j < n, which means it iterates approximately √n times. Therefore, the time complexity is O(n√n).

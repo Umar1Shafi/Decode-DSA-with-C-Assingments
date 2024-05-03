@@ -1,0 +1,8 @@
+int c = 0;
+for(int i = n; i > 0; i /= 2) {
+    for(int j = 0; j < i; j ++) {
+        c++;
+    }
+}
+
+In this code snippet, the outer loop iterates log₂(n) times, and for each iteration of the outer loop, the inner loop iterates i times. The total number of iterations is the sum of the first n powers of 2, which is 2n - 1. Therefore, the time complexity is O(n).

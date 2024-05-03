@@ -1,0 +1,8 @@
+int c = 0;
+for(int i = 1; i < n; i*=2) {
+    for(int j = n; j > i; j--) {
+        c++;
+    }
+}
+
+Here, the outer loop iterates log₂(n) times since i doubles in each iteration. For each iteration of the outer loop, the inner loop iterates n-i times. Therefore, the time complexity is O(n log n).
