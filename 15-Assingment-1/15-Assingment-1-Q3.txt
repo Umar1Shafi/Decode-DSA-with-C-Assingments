@@ -1,0 +1,8 @@
+What does this function do ?
+Prints binary representation of n in reverse order
+Prints binary representation of n
+Print the value of Log n
+Print the value of Log n in reverse order
+
+For the third question:
+The function prints the binary representation of n in reverse order. This means it prints the binary digits of n starting from the least significant bit to the most significant bit.

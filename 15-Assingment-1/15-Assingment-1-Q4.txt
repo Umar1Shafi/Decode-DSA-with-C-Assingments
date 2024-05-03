@@ -1,0 +1,8 @@
+Which of the following statement(s) about stack data structure is/are NOT correct?
+Stack data structure can be implemented using linked list
+New node can only be added at the top of the stack
+Stack is the FIFO data structure
+Adding an element to a filled stack leads to underflow condition.
+
+For the fourth question:
+The statement "Stack is the FIFO data structure" is NOT correct. Stack follows the LIFO (Last In, First Out) principle, not FIFO (First In, First Out). FIFO is characteristic of queue data structure, not stack.

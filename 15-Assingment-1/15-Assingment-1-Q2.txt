@@ -1,0 +1,9 @@
+Remove kth element from top in a given stack.
+Hint : Use another stack, just like insertion question.
+
+For the second question:
+To remove the kth element from the top of a given stack, you can use another stack as follows:
+
+    Pop and store the top k elements from the given stack into the auxiliary stack.
+    Pop the kth element from the top of the auxiliary stack.
+    Pop and push back the remaining elements from the auxiliary stack to the given stack.
