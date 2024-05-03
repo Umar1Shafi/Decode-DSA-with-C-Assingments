@@ -1,0 +1,9 @@
+Given an array of digits (values are from 0 to 9), the task is to find the minimum possible sum of two numbers formed from digits of the array. Please note that all digits of the given array must be used to form the two numbers.
+
+To find the minimum possible sum of two numbers, we need to arrange the digits in non-decreasing order, forming two numbers with the most significant digits being as small as possible and the least significant digits being as large as possible.
+
+Here's a simple algorithm to achieve this:
+
+    Sort the array of digits in non-decreasing order.
+    Form two numbers by alternating digits from the sorted array.
+    Calculate the sum of the two numbers.
