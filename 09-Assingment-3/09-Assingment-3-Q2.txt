@@ -1,0 +1,3 @@
+In the following scenarios, when will you use selection sort?
+
+    c) Large values need to be sorted with small keys
