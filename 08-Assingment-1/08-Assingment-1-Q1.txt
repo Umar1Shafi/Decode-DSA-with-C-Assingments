@@ -1,0 +1,6 @@
+int c = 0;
+for(int i = n; i > 0; i /= 2) {
+    c++;
+}
+
+In this code snippet, the loop iterates log₂(n) times since i is halved in each iteration until it becomes 0. Therefore, the time complexity is O(log n).

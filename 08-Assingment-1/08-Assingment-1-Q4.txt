@@ -1,0 +1,6 @@
+int c = 0;
+for(int i = 1; i < n; i *= 2) {
+    c++;
+}
+
+Here, the loop iterates log₂(n) times because i is doubled in each iteration. Thus, the time complexity is O(log n).

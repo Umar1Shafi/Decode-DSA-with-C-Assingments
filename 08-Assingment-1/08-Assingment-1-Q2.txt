@@ -1,0 +1,6 @@
+int c = 0;
+for(int i = n; i > 1; i /= i) {
+    c++;
+}
+
+Here, the loop iterates log(log(n)) times because i is reduced to its square root in each iteration. Therefore, the time complexity is O(log(log n)).

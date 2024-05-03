@@ -1,0 +1,8 @@
+int c = 0;
+for(int i = 0; i < n; i++) {
+    for(int j = 0; j < i; j++){
+        c++;
+    }
+}
+
+In this nested loop, the outer loop iterates n times, and for each iteration of the outer loop, the inner loop iterates i times. The total number of iterations is the sum of the first n integers, which is n*(n+1)/2. Therefore, the time complexity is O(n^2).
