@@ -1,0 +1,3 @@
+int *p, q;
+
+    Syntax is incorrect. (Explanation: This line declares a pointer p and an integer q.)

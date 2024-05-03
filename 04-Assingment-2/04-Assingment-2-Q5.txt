@@ -1,0 +1,5 @@
+int a = 10, b = 20;
+int *ptr;
+*ptr = 5;
+
+No, the program snippet is not correct. (Explanation: The pointer ptr is not initialized to point to any memory location. Dereferencing an uninitialized pointer leads to undefined behavior.)
