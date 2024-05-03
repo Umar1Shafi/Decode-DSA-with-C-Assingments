@@ -1,0 +1,3 @@
+What is the worst case time complexity of cycle sort?
+Answer: a) O(n)
+Explanation: The worst-case time complexity of cycle sort is O(n), where n is the number of elements in the array. Although the average-case time complexity is also O(n), the worst-case scenario occurs when each element needs to be moved to its correct position through multiple cycles.
