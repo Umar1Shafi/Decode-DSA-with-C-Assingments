@@ -1,0 +1,2 @@
+b) two
+Explanation: The partitioning step of the quicksort algorithm divides the entire array into two subarrays based on a pivot element. Elements smaller than the pivot are placed on one side, and elements larger than the pivot are placed on the other side.

@@ -1,0 +1,2 @@
+a) Merge Sort
+Explanation: Quicksort typically partitions the array into subarrays and recursively sorts each subarray. In some implementations, when the subarrays become small enough (e.g., below a certain threshold), a different sorting algorithm like merge sort may be used to finish sorting the subarrays efficiently. This hybrid sorting technique is known as introsort.
